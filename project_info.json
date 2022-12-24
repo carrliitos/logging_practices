@@ -1,0 +1,16 @@
+{
+    "project_name": "Benzon - Test Project 2",
+    "project_start_date": "2022-12-24",
+    "hobbies": ["running", "sky diving", "singing"],
+    "age": 100,
+    "children": [
+        {
+            "firstName": "Nope",
+            "age": 6
+        },
+        {
+            "firstName": "Not",
+            "age": 8
+        }
+    ]
+}
