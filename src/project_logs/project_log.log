@@ -1,0 +1,52 @@
+December-24-2022 08:48:15 - Changing the logger date format is a bit trickier than I thought.
+December-24-2022 08:48:28 - Merry christmas!
+December-24-2022 08:48:36 - Merry Chrysler!
+December-24-2022 08:48:39 - Merry Christians!
+December-24-2022 08:49:24 - Merry Christians!
+December-24-2022 08:49:24 - Merry Christians!
+December-24-2022 08:49:24 - Merry Christians!
+December-24-2022 08:49:24 - Merry Christians!
+December-24-2022 08:49:24 - Merry Christians!
+December-24-2022 08:49:24 - Merry Christians!
+December-24-2022 08:49:24 - Merry Christians!
+December-24-2022 08:49:24 - Merry Christians!
+December-24-2022 08:49:24 - Merry Christians!
+December-24-2022 08:49:24 - Merry Christians!
+December-24-2022 08:56:25 - File created: 20221224_benzon_test_project.csv
+December-24-2022 08:58:58 [INFO] - File created: 20221224_benzon_test_project.csv
+2022-Dec-24 09:00:31 [INFO] - File created: 20221224_benzon_test_project.csv
+2022-December-24 09:00:38 [INFO] - File created: 20221224_benzon_test_project.csv
+2022-Dec-24 09:00:42 [INFO] - File created: 20221224_benzon_test_project.csv
+2022-12-24T09:02:45z [INFO] - reformatted the logger datetime
+2022-12-24T09:02:55-0600 [INFO] - reformatted the logger datetime
+2022-12-24T09:02:59-0600 [INFO] - reformatted the logger datetime
+2022-12-24T09:03:03-0600 [INFO] - reformatted the logger datetime
+2022-12-24T09:04:14-0600 [INFO] reformatted the logger datetime
+2022-12-24T09:04:23-0600 [INFO] reformatted the logger datetime
+2022-12-24T09:04:25-0600 [INFO] reformatted the logger datetime
+2022-12-24T09:04:31-0600 [INFO] reformatted the logger datetime
+2022-12-24T09:09:56-0600 [INFO] reformatted the logger datetime
+2022-12-24T09:09:56-0600 [DEBUG] This is a debug message
+2022-12-24T09:10:12-0600 [INFO] reformatted the logger datetime
+2022-12-24T09:10:12-0600 [DEBUG] This is a debug message
+2022-12-24T09:10:12-0600 [ERROR] This is a error message
+2022-12-24T09:10:16-0600 [INFO] reformatted the logger datetime
+2022-12-24T09:10:16-0600 [DEBUG] This is a debug message
+2022-12-24T09:10:16-0600 [ERROR] This is a error message
+2022-12-24T09:10:40-0600 [INFO] reformatted the logger datetime
+2022-12-24T09:10:40-0600 [DEBUG] This is a debug message
+2022-12-24T09:10:40-0600 [ERROR] This is a error message
+2022-12-24T09:10:40-0600 [WARNING] This is a warning message
+2022-12-24T09:15:10-0600 [DEBUG] File created in 20221224_benzon_test_project.csv
+2022-12-24T09:15:22-0600 [DEBUG] File created in 20221224_benzon_test_project.csv
+2022-12-24T09:15:22-0600 [INFO] Written to CSV file.
+2022-12-24T09:16:35-0600 [DEBUG] File created in 20221224_benzon_test_project.csv
+2022-12-24T09:16:35-0600 [INFO] Written to CSV file.
+2022-12-24T09:17:12-0600 [INFO] Written to CSV file.
+2022-12-24T09:17:20-0600 [INFO] Written to CSV file.
+2022-12-24T09:17:29-0600 [INFO] Written to CSV file.
+2022-12-24T09:17:30-0600 [INFO] Written to CSV file.
+2022-12-24T09:17:31-0600 [INFO] Written to CSV file.
+2022-12-24T09:17:31-0600 [INFO] Written to CSV file.
+2022-12-24T09:20:38 AM-0600 [INFO] Written to CSV file.
+2022-12-24T09:23:10-0600 [INFO] Written to CSV file.
